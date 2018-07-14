@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Сalculator", "Сalculator.csproj", "{43D17926-DD3B-E84B-DAD5-45C5EEFA558B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Сalculator.Editor", "Сalculator.Editor.csproj", "{23BC8E51-B820-6DC7-4B5C-F0760E713CEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Сalculator.Editor", "Сalculator.Editor.csproj", "{23BC8E51-B820-6DC7-4B5C-F0760E713CEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43D17926-DD3B-E84B-DAD5-45C5EEFA558B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D17926-DD3B-E84B-DAD5-45C5EEFA558B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D17926-DD3B-E84B-DAD5-45C5EEFA558B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D17926-DD3B-E84B-DAD5-45C5EEFA558B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23BC8E51-B820-6DC7-4B5C-F0760E713CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23BC8E51-B820-6DC7-4B5C-F0760E713CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23BC8E51-B820-6DC7-4B5C-F0760E713CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23BC8E51-B820-6DC7-4B5C-F0760E713CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23BC8E51-B820-6DC7-4B5C-F0760E713CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23BC8E51-B820-6DC7-4B5C-F0760E713CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23BC8E51-B820-6DC7-4B5C-F0760E713CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23BC8E51-B820-6DC7-4B5C-F0760E713CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
